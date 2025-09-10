@@ -1,7 +1,3 @@
-# 🏗️ Setup Guide: RDS ↔ EC2 Integration Project
-
----
-
 ## 🔹 Step 1: Create RDS (MySQL)
 
 1. Go to **AWS Console → RDS → Create Database**.
